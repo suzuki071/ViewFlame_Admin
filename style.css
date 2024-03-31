@@ -47,12 +47,13 @@ body {
 }
 .sidebar {
   width: 20%;
-  background-color: #DDE6ED;
+  background-color: #fff;
   color: #27374D;
+  border-right: #0f0f0f;
 }
 
 /* footer */
 .footer {
-  background-color: #DDE6ED;
+  background-color: #fff;
   color: #27374D;
 }
