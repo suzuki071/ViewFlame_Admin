@@ -57,6 +57,7 @@ body {
 }
 .content-box {
   width: 90%;
+  min-width: fit-content;
   background-color: #fff;
 }
 
